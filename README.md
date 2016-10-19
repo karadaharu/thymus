@@ -4,6 +4,7 @@
 * [Thymic epithelial cell developmental stages](/overview/tec_developmental_stages.md)
 * [T cell receptor](/overview/t_cell_receptor.md)
 * [Proliferation and death](/overview/proliferation_and_death.md)
+
 ## Mathematical modeling on thymocyte development
 
 
@@ -17,5 +18,5 @@
 * [Negative selection]()
 
 ## Experimental methods
-* Radioactive Proliferation Assay [[detail](/experimenttal_methods/radioactive_proliferation_assay.md)]
-* Fluorescence-activated Cell Sorting [[detail](/experimenttal_methods/fluorescence_activated_cell_sorting.md)]
+* [Radioactive Proliferation Assay](/experimenttal_methods/radioactive_proliferation_assay.md)
+* [Fluorescence-activated Cell Sorting(FACS)](/experimenttal_methods/fluorescence_activated_cell_sorting.md)
