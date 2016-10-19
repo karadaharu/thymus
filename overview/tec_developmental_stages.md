@@ -7,7 +7,7 @@
 | mTEChi | hi   | -    |
 | mTEClo | lo   | -    |
 
-[JP]cTECとmTECは発現しているケラチンの種類も異なる
+[JP]基本的にcTECではケラチンK8, K18を、mTECではK5, K14を発現しているが、一部そうではないものもある。
 
 ## References
 * [Developmental kinetics, turnover, and stimulatory capacity of thymic epithelial cells](https://www.ncbi.nlm.nih.gov/pubmed/16896157)

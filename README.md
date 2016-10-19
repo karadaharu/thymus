@@ -1,6 +1,6 @@
 # Thymus
 ## Overview
-* [Thymocyte developmental stages](/overview/thymocte_developmental_stages.md)
+* [Thymocyte developmental stages](/overview/thymocyte_developmental_stages.md)
 * [Thymic epithelial cell developmental stages](/overview/tec_developmental_stages.md)
 * [T cell receptor](/overview/t_cell_receptor.md)
 * [Proliferation and death](/overview/proliferation_and_death.md)
